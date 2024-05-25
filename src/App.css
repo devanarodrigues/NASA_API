@@ -1,0 +1,9 @@
+.images{
+    border-radius: 2rem;
+    overflow: hidden;
+    border: 3px solid white;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.345);
+}
+.images::-webkit-scrollbar{
+    width: 0;
+}
